@@ -1,0 +1,17 @@
+# Exclude the fine-tuned model ZIP
+sanskrit_english_e5_finetuned.zip
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
